@@ -22,7 +22,7 @@ Or simply click:
 
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/render-examples/fastapi)
 
-deployed on: https://fastapi-example-i57l.onrender.com
+deployed on: https://fastapi-example-i57l.onrender.com/redoc
 
 ## Thanks
 
